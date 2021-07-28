@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksoldier1404&label=Profile%20views&color=0e75b6&style=flat" alt="darksoldier1404" /> </p>
 
-- 🔭 I’m currently working on **DPNW-EpicWarRpg**
+- 🔭 I’m currently working on **DPNW-RTRPG**
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **Discord: DarkSoldier#1404**
+- 📫 How to reach me **you can't**
 
 
 <h3 align="left">Languages and Tools:</h3>
