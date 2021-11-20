@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksoldier1404&label=Profile%20views&color=0e75b6&style=flat" alt="darksoldier1404" /> </p>
 
-- 🔭 I’m currently working on **DPNW-RTRPG**
+- 🔭 I’m currently working on **DP-Plugins**
 
 - 🌱 I’m currently learning **Java**
 
