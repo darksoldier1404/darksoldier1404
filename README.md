@@ -1,4 +1,5 @@
 <h3 align="center">DEADPOOLIO!</h3>
+<img src="https://discordapp.com/api/guilds/740288168716140605/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksoldier1404&label=Profile%20views&color=0e75b6&style=flat" alt="darksoldier1404" /> </p>
 
