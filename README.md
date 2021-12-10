@@ -1,6 +1,6 @@
 <h3 align="center">DEADPOOLIO!</h3>
 
-<h2 align="center">https://ko-fi.com/deadpoolio</h2>
+<h2 align="center">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J15L5UR)</h2>
 
 <a href="https://discord.gg/wKEDry6nHz" target="_blank"><img src="https://discordapp.com/api/guilds/740288168716140605/widget.png?style=banner4"/></a>
 
