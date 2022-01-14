@@ -2,7 +2,6 @@
 <h2 align="center">https://ko-fi.com/deadpoolio</h2>
 
 <a href="https://discord.gg/wKEDry6nHz" target="_blank"><img src="https://discordapp.com/api/guilds/740288168716140605/widget.png?style=banner4"/></a>
-<iframe src="https://discord.com/widget?id=740288168716140605&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksoldier1404&label=Profile%20views&color=0e75b6&style=flat" alt="darksoldier1404" /> </p>
 
