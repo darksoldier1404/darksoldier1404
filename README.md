@@ -22,3 +22,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darksoldier1404&" alt="darksoldier1404" /></p>
 
 [![DPP-Core](https://github.com/darksoldier1404/DPP-Core/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DPP-Core/actions/workflows/gradle.yml)
+[![DP-LegendaryCash](https://github.com/darksoldier1404/DP-LegendaryCash/actions/workflows/gradle.yml/badge.svg)](https://github.com/darksoldier1404/DP-LegendaryCash/actions/workflows/gradle.yml)
