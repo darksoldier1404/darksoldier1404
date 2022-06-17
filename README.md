@@ -20,4 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darksoldier1404&show_icons=true&locale=en" alt="darksoldier1404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darksoldier1404&" alt="darksoldier1404" /></p>
-[![Gradle Build by.Bruce0203](https://github.com/darksoldier1404/DPP-Core/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DPP-Core/actions/workflows/gradle.yml)
+
+[![DPP-Core](https://github.com/darksoldier1404/DPP-Core/actions/workflows/gradle.yml/badge.svg)](https://github.com/darksoldier1404/DPP-Core/actions/workflows/gradle.yml)
