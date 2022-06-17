@@ -22,5 +22,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darksoldier1404&" alt="darksoldier1404" /></p>
 
 [![DPP-Core](https://github.com/darksoldier1404/DPP-Core/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DPP-Core/actions/workflows/gradle.yml)
-[![DP-LegendaryCash](https://github.com/darksoldier1404/DP-LegendaryCash/actions/workflows/gradle.yml/badge.svg)](https://github.com/darksoldier1404/DP-LegendaryCash/actions/workflows/gradle.yml)
-[![DP-ItemEditor](https://github.com/darksoldier1404/DP-ItemEditor/actions/workflows/gradle.yml/badge.svg)](https://github.com/darksoldier1404/DP-ItemEditor/actions/workflows/gradle.yml)
+[![DP-LegendaryCash](https://github.com/darksoldier1404/DP-LegendaryCash/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-LegendaryCash/actions/workflows/gradle.yml)
+[![DP-ItemEditor](https://github.com/darksoldier1404/DP-ItemEditor/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-ItemEditor/actions/workflows/gradle.yml)
+[![DP-SimplePrefix](https://github.com/darksoldier1404/DP-SimplePrefix/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-SimplePrefix/actions/workflows/gradle.yml)
+[![DP-ItemCommand](https://github.com/darksoldier1404/DP-ItemCommand/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-ItemCommand/actions/workflows/gradle.yml)
+[![DP-EasyWarp](https://github.com/darksoldier1404/DP-EasyWarp/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-EasyWarp/actions/workflows/gradle.yml)
+[![DP-SimpleMenu](https://github.com/darksoldier1404/DP-SimpleMenu/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-SimpleMenu/actions/workflows/gradle.yml)
+[![DP-BackPack](https://github.com/darksoldier1404/DP-BackPack/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-BackPack/actions/workflows/gradle.yml)
+[![DP-EquipmentAttribution](https://github.com/darksoldier1404/DP-EquipmentAttribution/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-EquipmentAttribution/actions/workflows/gradle.yml)
+[![DP-BubbleChat](https://github.com/darksoldier1404/DP-BubbleChat/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-BubbleChat/actions/workflows/gradle.yml)
+[![DP-GiftBox](https://github.com/darksoldier1404/DP-GiftBox/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-GiftBox/actions/workflows/gradle.yml)
