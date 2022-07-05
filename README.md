@@ -32,3 +32,4 @@
 [![DP-EquipmentAttribution](https://github.com/darksoldier1404/DP-EquipmentAttribution/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-EquipmentAttribution/actions/workflows/gradle.yml)
 [![DP-BubbleChat](https://github.com/darksoldier1404/DP-BubbleChat/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-BubbleChat/actions/workflows/gradle.yml)
 [![DP-GiftBox](https://github.com/darksoldier1404/DP-GiftBox/actions/workflows/gradle.yml/badge.svg?branch=master)](https://github.com/darksoldier1404/DP-GiftBox/actions/workflows/gradle.yml)
+![](https://bstats.org/signatures/bukkit/DP-UniversalCore.svg)
