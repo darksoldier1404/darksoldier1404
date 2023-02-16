@@ -1,15 +1,5 @@
 <h3 align="center">DEADPOOLIO!</h3>
-<h2 align="center">https://ko-fi.com/deadpoolio</h2>
-
-<a href="https://discord.gg/wKEDry6nHz" target="_blank"><img src="https://discordapp.com/api/guilds/740288168716140605/widget.png?style=banner4"/></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksoldier1404&label=Profile%20views&color=0e75b6&style=flat" alt="darksoldier1404" /> </p>
-
-- 🔭 I’m currently working on **MarvelSnap Discord Bot**
-
-- 🌱 I’m currently learning **NodeJS**
-
-- 📫 How to reach me **you can't**
 
 
 <h3 align="left">Languages and Tools:</h3>
